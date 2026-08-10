@@ -6,7 +6,7 @@
 
 Java &middot; Spring Boot &middot; React / Angular &middot; Applied AI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=10%2B+years+building+enterprise+systems;Leading+an+AI+test+orchestration+platform;RAG+pipelines+and+multi-agent+workflows)](https://github.com/khazaShaik)
+*Currently leading an AI-powered test orchestration platform for T-Mobile supply chain*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaza-shaik)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khazaShaik)
